@@ -1,2 +1,2 @@
 # amorisitApp
-next app
+nuxt app
